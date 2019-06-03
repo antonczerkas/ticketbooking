@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ticketbooking">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/calendar.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-io-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/theme.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

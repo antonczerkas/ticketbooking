@@ -1,0 +1,41 @@
+create database ticketbook;
+
+use ticketbook;
+
+create table audi1(seatNo varchar(5));
+insert into audi1 values('S1');
+insert into audi1 values('S2');
+insert into audi1 values('S3');
+insert into audi1 values('S4');
+insert into audi1 values('S5');
+insert into audi1 values('G1');
+insert into audi1 values('G2');
+insert into audi1 values('G3');
+insert into audi1 values('G4');
+insert into audi1 values('G5');
+insert into audi1 values('P1');
+insert into audi1 values('P2');
+insert into audi1 values('P3');
+insert into audi1 values('P4');
+insert into audi1 values('P5');
+
+create table audi2(seatNo varchar(5));
+insert into audi2 values('S1');
+insert into audi2 values('S2');
+insert into audi2 values('S3');
+insert into audi2 values('S4');
+insert into audi2 values('S5');
+insert into audi2 values('G1');
+insert into audi2 values('G2');
+insert into audi2 values('G3');
+insert into audi2 values('G4');
+insert into audi2 values('G5');
+insert into audi2 values('P1');
+insert into audi2 values('P2');
+insert into audi2 values('P3');
+insert into audi2 values('P4');
+insert into audi2 values('P5');
+
+create table movies1(name varchar(30), date date);
+
+create table movies2(name varchar(30), date date);
